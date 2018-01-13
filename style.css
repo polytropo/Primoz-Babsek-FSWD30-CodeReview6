@@ -1,0 +1,17 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.card {
+ min-height: 466px;
+}
+
+img {
+	min-height: 250px;
+	max-height: 250px;
+}
+
+.checked {
+    color: orange;
+}
+
